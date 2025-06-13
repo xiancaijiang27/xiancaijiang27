@@ -10,8 +10,8 @@
 - 💡 计划完成“基于肌电意图驱动的手部运动控制系统”
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&bg_color=ffffff&title_color=ff69b4&text_color=4169e1&icon_color=ff69b4" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&bg_color=ffffff&title_color=ff69b4&text_color=4169e1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&title_color=9f57f9&text_color=333333&bg_color=ffffff" height="165"/>
 </p>
 
 ## 📫 <span style="color:#9b59b6;">How to reach me</span>
