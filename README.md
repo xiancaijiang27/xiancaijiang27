@@ -16,7 +16,7 @@
 
     </td>
     <td align="right" valign="top" width="30%">
-      <img src="https://github.com/xiancaijiang27/Note/blob/main/橘子洲.png?raw=true" width="160"/>
+      <img src="https://github.com/xiancaijiang27/Note/blob/main/橘子洲.jpg?raw=true" width="160"/>
     </td>
   </tr>
 </table>
