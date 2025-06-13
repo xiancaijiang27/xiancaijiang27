@@ -10,10 +10,8 @@ Welcome to my GitHub profile!
 - 💡 计划完成“基于肌电意图驱动的手部运动控制系统”
 
 ## 📊 XianCai's GitHub Stats
-<p align="left">
-  < img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=radical" />
-  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&theme=light" height="180"/>
-</p >
+    (https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=radical)
+    (https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&theme=light" height="180")
 
 ## 📫 How to reach me
 - 💬 v：xiancaijiang27 
