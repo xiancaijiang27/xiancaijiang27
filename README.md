@@ -11,8 +11,8 @@ Welcome to my GitHub profile!
 
 ## 📊 XianCai's GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=default" height="340"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&theme=default" height="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&theme=default" height="165"/>
 </p>
 
 ## 📫 How to reach me
