@@ -9,12 +9,11 @@ Welcome to my GitHub profile!
 - 🧠 热爱神经科学 & 脑脊接口
 - 💡 计划完成“基于肌电意图驱动的手部运动控制系统”
 
-## 🛠 Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=radical)
+## 📊 XianCai's GitHub Stats
+<p align="left">
+  < img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=default&bg_color=ffffff00" width="400"/>
+  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&theme=default" width="300"/>
+</p >
 
 ## 📫 How to reach me
 - 💬 v：xiancaijiang27 
