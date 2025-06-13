@@ -2,10 +2,10 @@
 
 欢迎来到我的 GitHub 主页！✨
 
-<table width="100%">
+<table>
   <tr>
-    <td valign="top" width="70%">
-      
+    <td width="70%" valign="top">
+
 <h3>🚀 About Me</h3>
 
 - 🏳‍⚧ 05mtf，欢迎同类贴贴 💖  
@@ -14,10 +14,10 @@
 - 🧠 热爱神经科学 & 脑脊接口  
 - 💡 计划完成 “基于肌电意图驱动的手部运动控制系统”  
 
-    </td>
-    <td align="right" valign="top" width="30%">
-      <img src="https://github.com/xiancaijiang27/Note/blob/main/橘子洲.jpg?raw=true" width="160"/>
-    </td>
+</td>
+<td width="30%" valign="top" align="right">
+<img src="https://github.com/xiancaijiang27/Note/blob/main/橘子洲.jpg?raw=true" width="140"/>
+</td>
   </tr>
 </table>
 
