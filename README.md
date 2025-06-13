@@ -1,4 +1,4 @@
-# <span style="color:#9b59b6;">Hi, I'm 纤彩酱! 👋💜</span>
+# <span style="color:#9b59b6;">Hi, I'm 纤彩酱! 👋</span>
 
 欢迎来到我的 GitHub 主页！✨
 
@@ -11,9 +11,9 @@
 
 ## 📊 <span style="color:#9b59b6;">XianCai's GitHub Stats</span>
 <p align="left">
-  < img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=dracula" height="165"/>
-  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&theme=dracula" height="165"/>
 </p >
 
 ## 📫 <span style="color:#9b59b6;">How to reach me</span>
-- 💬 微信：xiancaijiang27 💖
+- 💬 微信：xiancaijiang27
