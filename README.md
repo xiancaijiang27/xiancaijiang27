@@ -9,10 +9,9 @@
 - 🧠 热爱神经科学 & 脑脊接口
 - 💡 计划完成“基于肌电意图驱动的手部运动控制系统”
 
-## 📊 <span style="color:#9b59b6;">XianCai's GitHub Stats</span>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=dracula" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&theme=light" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&theme=light" height="165"/>
 </p >
 
 ## 📫 <span style="color:#9b59b6;">How to reach me</span>
