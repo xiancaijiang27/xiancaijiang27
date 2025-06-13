@@ -11,7 +11,7 @@
 - 🎓 机器人工程  
 - 🌱 自学 Python & 模电中  
 - 🧠 热爱神经科学 & 脑脊接口  
-- 💡 计划完成 “基于肌电意图驱动的手部运动控制系统”&nbsp;&nbsp; &nbsp; &nbsp;                                             
+- 💡 计划完成 “基于肌电意图驱动的手部运动控制系统”&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                            
 
 </td>
 <td>
