@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td valign="top" width="70%">
 
 <h3>🚀 About Me</h3>
 
@@ -12,11 +12,11 @@
 - 🎓 机器人工程  
 - 🌱 自学 Python & 模电中  
 - 🧠 热爱神经科学 & 脑脊接口  
-- 💡 计划完成 “基于肌电意图驱动的手部运动控制系统”  
+- 💡 计划完成 “基于肌电意图驱动的手部运动控制系统”
 
 </td>
-<td width="30%" valign="top" align="right">
-<img src="https://github.com/xiancaijiang27/Note/blob/main/橘子洲.jpg?raw=true" width="140"/>
+<td valign="top" align="right" width="30%">
+  <img src="https://raw.githubusercontent.com/xiancaijiang27/Note/main/橘子洲.jpg" width="160" />
 </td>
   </tr>
 </table>
