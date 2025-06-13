@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td valign="top" stype="padding-left:150px;">
+    <td valign="top">
 <h3>🚀 About Me</h3>
 
 - 🏳‍⚧ 05mtf，欢迎同类贴贴 💖  
@@ -15,7 +15,7 @@
 
 </td>
 <td>
-  <img src="https://github.com/xiancaijiang27/Note/blob/main/橘子洲.jpg?raw=true" width="200"/>
+  <img src="https://github.com/xiancaijiang27/Note/blob/main/橘子洲.jpg?raw=true" width="200"style="float: right; margin-left: 20px;"/>
 </td>
   </tr>
 </table>
