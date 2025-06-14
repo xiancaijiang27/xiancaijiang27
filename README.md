@@ -6,7 +6,7 @@
   <tr>
     <td valign="top">
 
-## 🙋‍♀ About Me
+## 🙋‍♀ About me
 
 - 🏳‍⚧ 05mtf，欢迎同类贴贴 💖   
 - 🎓 机器人工程    
