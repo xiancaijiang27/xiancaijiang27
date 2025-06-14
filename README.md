@@ -1,13 +1,11 @@
 <h1 align="left">Hi, I'm 纤彩酱! 👋</h1>
 
 欢迎来到我的 GitHub 主页！✨
-
+## 🙋‍♀️ About Me</h3>
 <table>
   <tr>
     <td valign="top">
-<h3>
-## 🙋‍♀️ About Me</h3>
-
+<h3>  
 - 🏳‍⚧ 05mtf，欢迎同类贴贴 💖  
 - 🎓 机器人工程  
 - 🌱 自学 Python & 模电中  
