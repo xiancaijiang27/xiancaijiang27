@@ -5,17 +5,18 @@
 <table>
   <tr>
     <td valign="top">
-<h3>🙋‍♀️ About Me</h3>
-- 🏳‍⚧ 05mtf，欢迎同类贴贴 💖   
-- 🎓 机器人工程    
-- 🌱 自学 Python & 模电中   
-- 🧠 热爱神经科学 & 脑脊接口   
-- 💡 计划完成 “基于肌电意图驱动的手部运动控制系统”&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                                     
-
-</td>
-<td>
-  <img src="https://github.com/xiancaijiang27/xiancaijiang27/blob/main/橘子洲.jpg?raw=true" width="200" style="float: right; margin-left: 20px;" />
-</td>
+      <h3>🙋‍♀ About Me</h3>
+      <ul>
+        <li>🏳‍⚧ 05mtf，欢迎同类贴贴 💖</li>
+        <li>🎓 机器人工程</li>
+        <li>🌱 自学 Python & 模电中</li>
+        <li>🧠 热爱神经科学 & 脑脊接口</li>
+        <li>💡 计划完成 “基于肌电意图驱动的手部运动控制系统”</li>
+      </ul>
+    </td>
+    <td>
+      < img src="https://github.com/xiancaijiang27/xiancaijiang27/blob/main/橘子洲.jpg?raw=true" width="200" style="margin-left: 20px;" />
+    </td>
   </tr>
 </table>
 
