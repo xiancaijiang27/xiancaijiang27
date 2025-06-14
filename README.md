@@ -28,5 +28,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&layout=compact&title_color=9f57f9&text_color=333333&bg_color=ffffff" height="165"/>
 </p>
 
-&emsp;## 📫 How to reach me
-&emsp;- 💬 微信：xiancaijiang27
+&emsp; ## 📫 How to reach me
+&emsp; - 💬 微信：xiancaijiang27
