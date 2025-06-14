@@ -30,6 +30,6 @@
 
 ---
 
-## 📫 How to reach me
+  ## 📫 How to reach me
 
-- 💬 微信：xiancaijiang27
+  - 💬 微信：xiancaijiang27
